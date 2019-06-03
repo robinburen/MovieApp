@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="popular_text">The most popular movies of</string>
+    <string name="default_year">2019</string>
+    <string name="submit">Submit</string>
+    <string name="overview">Overview</string>
+</resources>
